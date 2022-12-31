@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Harshit
 #### A Data Scientist Enthusiast, ML and AI novice
-![A Data Scientist Enthusiast, ML and AI novice](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![A Data Scientist Enthusiast, ML and AI novice](https://media.licdn.com/dms/image/D5616AQGdsNfcw88F0g/profile-displaybackgroundimage-shrink_350_1400/0/1665666146046?e=1677715200&v=beta&t=jH-qImbpN5jED3js4TyJ_LgjqRiMr2sunJFx6XiClG4)
 
 I am currently pursuing bachelor degree,collabratively involving in projects and knowledge towards Data Science 🙌
 
