@@ -23,8 +23,7 @@ Skills: HTML <> / CSS  🔴🟢🔵 / Javascript 💡/ Java🎓 / Python 🐍 / 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshit26042004)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Harshit26042004&show_icons=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/Harshit26042004)  
+  
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Harshit26042004&theme=neon_blurange)](https://git.io/streak-stats)
 
