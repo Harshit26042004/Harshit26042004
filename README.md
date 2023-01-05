@@ -11,7 +11,6 @@ Skills: HTML <> / CSS  🔴🟢🔵 / Javascript 💡/ Java🎓 / Python 🐍 / 
 - 🔭 I’m currently working on Student and partially as intern 
 - 🌱 I’m currently learning Data Science and machine learning 
 - 📫 How to reach me: This is my github account where you can contact me 
-- 😄 Pronouns: Harshit - ha-r-sh-ith 
 
 
 [<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIEPgPKowLqT-y1eacBMsD0yTcJD1o_STvAA&usqp=CAU' alt='linkedin' height='40'>](https://www.linkedin.com/in/harshit-s-apr2604/)  [<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcKvtmT0pGIvahOT5mgBaC7HwZqVmA09RNQw&usqp=CAU' alt='instagram' height='40'>](https://www.instagram.com/harshit_subramanian264/)  [<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXwdMFo53869Kw39FS7zlw0CJZx8wT-VX4ng&usqp=CAU' alt='twitter' height='40'>](https://twitter.com/Harshit_S_264)  [<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRI3zoZxrxrMRnMGwh6IDgJsOHmWQFZMEBmKA&usqp=CAU' alt='codesandbox' height='40'>](https://codesandbox.io/u/harshitharshit138)  [<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu_BcsXiPqI-yaPOijvwHTqgoNDKaUUaFMCg&usqp=CAU' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/harshit-s)  [<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdW829sk6aLy1SZP1EGXTTZoQEvCGlqk2pkqfA2Wnm1AqGU9gajVbZMu0BkQkOY3_-NyM&usqp=CAU' alt='hackerrank' height='40'>](harshitharshit11)  
