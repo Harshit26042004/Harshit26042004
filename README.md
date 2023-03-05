@@ -70,8 +70,9 @@ I am currently pursuing bachelor degree,collabratively involving in projects and
     </tr>
   </table>
   
-  <table>
-    <h2>Frameworks & Libraries:</h2>
+  
+  <table align="right">
+    <h2 align="right">Frameworks & Libraries:</h2>
     <tr>
       <td>
         <img src="https://camo.githubusercontent.com/e4f918596bfc1a8746d3bf5426a212500a5b36b1e5c63869cbe65b071dcdb48a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e756d70792d3737374242343f7374796c653d666f722d7468652d6261646765266c6f676f3d6e756d7079266c6f676f436f6c6f723d7768697465">
@@ -95,13 +96,31 @@ I am currently pursuing bachelor degree,collabratively involving in projects and
       </td>
     </tr>
   </table>
+  
+<img width="400" src="https://media.tenor.com/7tlM7VOBit8AAAAC/night-tutorials-indo-hanging-light.gif" alt="night_code" align="left">
+  
 </p>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 
+<p text-align="bottom">
 
 - 🔭 I’m currently working as Student and partially as intern 
 - 🌱 I’m currently learning Data Science and machine learning 
 - Positive attitude 🌟, Collabrative 😼, Audiophile 🎶, Casual Gamer 🎮
+
+</p>    
 
 <h2>You can reach me by...</h2>
 
