@@ -71,6 +71,7 @@ I am currently pursuing bachelor degree,collabratively involving in projects and
   </table>
   
   
+<img width="400" src="https://media.tenor.com/7tlM7VOBit8AAAAC/night-tutorials-indo-hanging-light.gif" alt="night_code" align="left">
   <table align="right">
     <h2 align="right">Frameworks & Libraries:</h2>
     <tr>
@@ -97,7 +98,6 @@ I am currently pursuing bachelor degree,collabratively involving in projects and
     </tr>
   </table>
   
-<img width="400" src="https://media.tenor.com/7tlM7VOBit8AAAAC/night-tutorials-indo-hanging-light.gif" alt="night_code" align="left">
   
 </p>
 <br>
@@ -111,10 +111,9 @@ I am currently pursuing bachelor degree,collabratively involving in projects and
 <br>
 <br>
 <br>
-<br>
 
 
-<p text-align="bottom">
+<p align="right">
 
 - 🔭 I’m currently working as Student and partially as intern 
 - 🌱 I’m currently learning Data Science and machine learning 
