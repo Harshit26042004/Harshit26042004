@@ -71,7 +71,7 @@ I am currently pursuing bachelor degree,collabratively involving in projects and
   </table>
   
   
-<img width="400" src="https://media.tenor.com/7tlM7VOBit8AAAAC/night-tutorials-indo-hanging-light.gif" alt="night_code" align="left">
+<img width="350" src="https://media.tenor.com/7tlM7VOBit8AAAAC/night-tutorials-indo-hanging-light.gif" alt="night_code" align="left">
   <table align="right">
     <h2 align="right">Frameworks & Libraries:</h2>
     <tr>
