@@ -139,4 +139,4 @@ I am currently pursuing bachelor degree,collabratively involving in projects and
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Harshit26042004&theme=neon_blurange)](https://git.io/streak-stats)
 
- 
+ ![visitor badge](https://visitor-badge.lithub.cc/badge?page_id=Harshit26042004.visitor-badge)
