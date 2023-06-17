@@ -1,6 +1,6 @@
 <h1 align="center">Hola,I'm Harshit</h1>
 
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&left_text=My%20Page%20Visitors)
+
 
 <p>
     <h2 align="left">A Data Science Enthusiast</h2>
