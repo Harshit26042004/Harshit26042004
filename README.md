@@ -137,17 +137,9 @@ I am currently pursuing bachelor degree,concurrently involving in projects and k
 <br>
 
 
-<p align="right">
-
-- 🔭 I’m currently working as Student and partially as intern 
-- 🌱 I’m currently learning Data Science and machine learning 
-- Positive attitude 🌟, Collabrative 😼, Audiophile 🎶, Casual Gamer 🎮
-
-</p>    
 
 <h2>You can reach me by...</h2>
 
-[<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIEPgPKowLqT-y1eacBMsD0yTcJD1o_STvAA&usqp=CAU' alt='linkedin' height='90'>](https://www.linkedin.com/in/harshit-s-apr2604/)  [<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcKvtmT0pGIvahOT5mgBaC7HwZqVmA09RNQw&usqp=CAU' alt='instagram' height='90'>](https://www.instagram.com/harshit_subramanian264/)  [<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXwdMFo53869Kw39FS7zlw0CJZx8wT-VX4ng&usqp=CAU' alt='twitter' height='90'>](https://twitter.com/Harshit_S_264)  [<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRI3zoZxrxrMRnMGwh6IDgJsOHmWQFZMEBmKA&usqp=CAU' alt='codesandbox' height='90'>](https://codesandbox.io/u/harshitharshit138)  [<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu_BcsXiPqI-yaPOijvwHTqgoNDKaUUaFMCg&usqp=CAU' alt='stackoverflow' height='90'>](https://stackoverflow.com/users/harshit-s)  [<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdW829sk6aLy1SZP1EGXTTZoQEvCGlqk2pkqfA2Wnm1AqGU9gajVbZMu0BkQkOY3_-NyM&usqp=CAU' alt='hackerrank' height='90'>](harshitharshit11) [<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwX5lHZocGJr2I3AL-Py3CbCaNGUJ9SooTKQ&usqp=CAU' alt='kaggle' height='90'>](https://www.kaggle.com/harshit264)
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
