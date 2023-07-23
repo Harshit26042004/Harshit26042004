@@ -20,14 +20,13 @@
 
 
 
-I am currently pursuing bachelor degree,concurrently involving in projects and knowledge towards ⚙️ Artificial Intelligence and Machine Learning 🙌. Upskilling Myself in cutting-edge ✨ technologies and to the state-of-the-art🔬.
+I am a Student,concurrently involving in knowledge towards ⚙️ Machine Learning 🙌. Upskilling Myself in cutting-edge ✨ technologies and to the state-of-the-art🔬.
 
 
 <p align="right">
 
 - 🔭 I’m currently working as Student and partially as intern
 - 🖥 Ask me about deep learning ,🚀 Operating system and java
-- 🌱 I’m currently pursuing Computer Science and engineering 
 - Positive attitude 🌟, Collabrative 😼, Audiophile 🎶, Casual Gamer 🎮
 
 </p>  
