@@ -1,13 +1,36 @@
 <h1 align="center">Hola,I'm Harshit</h1>
 
 
-
 <p>
-    <h2 align="left">A Data Science Enthusiast</h2>
-    <img width="450" src="https://institute.careerguide.com/wp-content/uploads/2020/10/rpro1.gif" alt="DataScience" align="right">
+    <h2 align="center">Student | Computer Science Engineer 🖥️</h2>
+    <img width="350" src="https://institute.careerguide.com/wp-content/uploads/2020/10/rpro1.gif" alt="DataScience" align="right">
+</p>
+<div>
+    <h3>You can reach me by....</h3>
+<p dir="auto">
+    <a href="https://www.instagram.com/harshit_subramanian264/" rel="nofollow"><img src="https://camo.githubusercontent.com/0641e2731604a57f9b9f2de4be17fcf1893c1fbf31dcb3e276f4281208616a1c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2d2532334534343035462e7376673f6c6f676f3d496e7374616772616d266c6f676f436f6c6f723d7768697465" alt="Instagram" data-canonical-src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&amp;logoColor=white" style="max-width: 100%;"></a> 
+    <a href="https://www.linkedin.com/in/harshit-s-apr2604/" rel="nofollow"><img src="https://camo.githubusercontent.com/f17ba9730c27e5f1230325b94c8b68bbf3115d32650866f6e3d0ade68201beea/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d2532333030373742352e7376673f6c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
+    <a href="https://www.kaggle.com/harshit264" rel="nofollow"><img src="https://camo.githubusercontent.com/1aa901552e5e674beb5213f649c537e205cea9d3b42a0d99320191ee74b86922/687474703a2f2f696d672e736869656c64732e696f2f62616467652f2d4b6167676c652d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6b6167676c65266c696e6b3d68747470733a2f2f7777772e6b6167676c652e636f6d2f616268696e616e6430352f" alt="Pinterest" data-canonical-src="https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&amp;logoColor=white" style="max-width: 100%;"></a> 
+    <a href="https://www.quora.com/profile/Harshit-S-38" rel="nofollow"><img src="https://camo.githubusercontent.com/ac6f33ce534f3f872e16910928c2a4f095bcd3c57bdc8abc22d923365205763f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f51756f72612d2532334239324232372e7376673f6c6f676f3d51756f7261266c6f676f436f6c6f723d7768697465" alt="Quora" data-canonical-src="https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&amp;logoColor=white" style="max-width: 100%;"></a> 
+    <a href="https://stackoverflow.com/users/harshit-s" rel="nofollow"><img src="https://camo.githubusercontent.com/7ebc5a2448e32119a01bdae64290fcf67ee83b9f2427894ca50888d342d5dd77/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d537461636b6f766572666c6f772d4645374131363f6c6f676f3d737461636b2d6f766572666c6f77266c6f676f436f6c6f723d7768697465" alt="Stack Overflow" data-canonical-src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&amp;logoColor=white" style="max-width: 100%;"></a> 
+    <a href="harshitharshit138@gmail.com" rel="nofollow"><img src="https://camo.githubusercontent.com/02324cf68884e3fdfb628bcaa9218742630b6165b1fe0279e20517376f0d5c9d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f474d41494c2d4541343333353f6c6f676f3d676d61696c266c6f676f436f6c6f723d666666267374796c653d666c6174" alt="Twitch" data-canonical-src="https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&amp;logoColor=white" style="max-width: 100%;"></a>
+    <a href="https://twitter.com/Harshit_S_264" rel="nofollow"><img src="https://camo.githubusercontent.com/b3f65aa2e19150fa99267825f77568e8436bcb01060f60fa888e5174b08c7fbc/687474703a2f2f696d672e736869656c64732e696f2f62616467652f2d547769747465722d3963663f7374796c653d666c61742d737175617265266c6f676f3d74776974746572266c6f676f436f6c6f723d6461726b626c7565266c696e6b3d68747470733a2f2f747769747465722e636f6d2f616268696e616e6435383939" alt="Twitch" data-canonical-src="https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&amp;logoColor=white" style="max-width: 100%;"></a></p>
+<div align="center" dir="auto">
+</div>
 
 
-I am currently pursuing bachelor degree,collabratively involving in projects and knowledge towards Artificial Intelligence and Machine Learning 🙌
+
+I am currently pursuing bachelor degree,concurrently involving in projects and knowledge towards ⚙️ Artificial Intelligence and Machine Learning 🙌. Upskilling Myself in cutting-edge ✨ technologies and to the state-of-the-art🔬.
+
+
+<p align="right">
+
+- 🔭 I’m currently working as Student and partially as intern
+- 🖥 Ask me about deep learning ,🚀 Operating system and java
+- 🌱 I’m currently pursuing Computer Science and engineering 
+- Positive attitude 🌟, Collabrative 😼, Audiophile 🎶, Casual Gamer 🎮
+
+</p>  
 
   <table>
     <h2>Proficient Languages:</h2>
