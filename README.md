@@ -32,8 +32,10 @@ I am a Student,concurrently involving in knowledge towards ⚙️ Machine Learni
 
 </p>  
 
+<details>
+    <summary><h2>Programming Languages:</h2><hr></summary>
+    
   <table>
-    <h2>Proficient Languages:</h2>
     <tr border=0>
       <td>
         <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/java_button_icon_151928.png" width="100">
@@ -57,6 +59,7 @@ I am a Student,concurrently involving in knowledge towards ⚙️ Machine Learni
       </td>
     </tr>
   </table>
+</details>
   
 
 <table align="right">
