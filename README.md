@@ -150,11 +150,15 @@ I am a Student,concurrently involving in knowledge towards ⚙️ Machine Learni
 <details>
 <summary><h2>Github Stats:</h2></summary>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Harshit26042004&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Harshit26042004)](https://github.com/ryo-ma/github-profile-trophy)
 
-![image](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshit26042004&langs_count=8&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff)
+ <a href="https://github.com/Harshit26042004/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Harshit26042004" />
+</a>
+<a href="https://github.com/Harshit26042004/convoychat">
+  <img height=250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Harshit26042004&langs_count=8&card_width=400" />
+</a>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Harshit26042004&show_icons=true)  
   
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Harshit26042004&theme=neon_blurange)](https://git.io/streak-stats)
@@ -162,3 +166,4 @@ I am a Student,concurrently involving in knowledge towards ⚙️ Machine Learni
  ![visitor badge](https://visitor-badge.lithub.cc/badge?page_id=Harshit26042004.visitor-badge)
 
  </details>
+
