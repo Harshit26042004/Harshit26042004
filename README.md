@@ -3,7 +3,6 @@
 
 <p>
     <h2 align="center">Student | Computer Science Engineer 🖥️</h2>
-    <img width="350" src="https://media.tenor.com/7tlM7VOBit8AAAAC/night-tutorials-indo-hanging-light.gif" alt="DataScience" align="right">
 </p>
 <div>
     <h3>You can reach me by....</h3>
@@ -18,6 +17,10 @@
 <div align="center" dir="auto">
 </div>
 
+<hr>
+<div align="center">
+    <img width="450" src="https://media.tenor.com/7tlM7VOBit8AAAAC/night-tutorials-indo-hanging-light.gif" alt="DataScience">
+</div>
 <hr>
 <h3>About me:</h3>
 
@@ -144,8 +147,8 @@ I am a Student,concurrently involving in knowledge towards ⚙️ Machine Learni
 
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
-
-<h2>Github Stats:</h2>
+<details>
+<summary><h2>Github Stats:</h2></summary>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Harshit26042004&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -157,3 +160,5 @@ I am a Student,concurrently involving in knowledge towards ⚙️ Machine Learni
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Harshit26042004&theme=neon_blurange)](https://git.io/streak-stats)
 
  ![visitor badge](https://visitor-badge.lithub.cc/badge?page_id=Harshit26042004.visitor-badge)
+
+ </details>
