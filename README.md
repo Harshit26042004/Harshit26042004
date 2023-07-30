@@ -1,4 +1,4 @@
-<h1 align="center">señor y señorita ,I'm Harshit</h1>
+<h1 align="center">Hey Mate!✌,I'm Harshit</h1>
 
 
 <p>
@@ -36,8 +36,9 @@ I am a Student,concurrently involving in knowledge towards ⚙️ Machine Learni
 </p>  
 <hr>
 
-<h2>Programming Languages:</h2>
-    
+<details open>
+<summary><h2>Programming Languages:</h2></summary>
+    <br>
   <p align="center">
         <img src="https://techaeris.com/wp-content/uploads/2016/01/Java-logo-png.png" height="30" width="75">
         <img src="https://camo.githubusercontent.com/5859172b2d0854f4d70d35118ae1fbb8d92f967ea654f1bb1bdae4a346d03926/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632d2532333030353939432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d63266c6f676f436f6c6f723d7768697465" height="30" width="75">
@@ -47,6 +48,7 @@ I am a Student,concurrently involving in knowledge towards ⚙️ Machine Learni
         <img src="https://camo.githubusercontent.com/3a0f693cfa032ea4404e8e02d485599bd0d192282b921026e89d271aaa3d7565/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373242363f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465">
         <img src="https://camo.githubusercontent.com/aeddc848275a1ffce386dc81c04541654ca07b2c43bbb8ad251085c962672aea/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742d2532333332333333302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d253233463744463145" height="28" width="100">
 </p>
+</details>
 <hr>
 <details>
     <summary><h2 align="right">Frameworks & Libraries:</h2></summary>
