@@ -134,16 +134,16 @@ I am a Student,concurrently involving in knowledge towards ⚙️ Machine Learni
 </div>
 
  <a href="https://github.com/Harshit26042004/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Harshit26042004" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Harshit26042004&show_icons=true" />
 </a>
 
 <a href="https://github.com/Harshit26042004/github-readme-stats">
-  <img height=250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Harshit26042004&langs_count=8&card_width=400" />
+  <img height=250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Harshit26042004&langs_count=8&card_width=400&show_icons=true" />
 </a>
 
 <div align="center">
  <a href="https://git.io/streak-stats" align="center">
-  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Harshit26042004&theme=neon_blurange" />
+  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Harshit26042004&theme=radical" />
 </a>
 </div>
 
