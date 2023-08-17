@@ -19,7 +19,7 @@
 
 <hr>
 <div align="center">
-    <img width="450" src="https://media.tenor.com/7tlM7VOBit8AAAAC/night-tutorials-indo-hanging-light.gif" alt="DataScience">
+    <img width="300" src="https://media.tenor.com/7tlM7VOBit8AAAAC/night-tutorials-indo-hanging-light.gif" alt="DataScience" height="225">
 </div>
 <hr>
 <h3>About me:</h3>
