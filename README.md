@@ -1,6 +1,5 @@
 <h1 align="center">Hey Mate!✌,I'm Harshit</h1>
 
-
 <p>
     <h2 align="center">Student | Computer Science Engineer 🖥️</h2>
 </p>
