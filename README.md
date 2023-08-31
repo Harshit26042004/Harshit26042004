@@ -142,7 +142,7 @@ I am a Student,concurrently involving in knowledge towards ⚙️ Machine Learni
 
 <div align="center">
  <a href="https://git.io/streak-stats" align="center">
-  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Harshit26042004&theme=radical" />
+  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Harshit26042004" />
 </a>
 </div>
 
