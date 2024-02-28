@@ -1,152 +1,140 @@
-<h1 align="center">Hey Mate!✌,I'm Harshit</h1>
-
-<p>
-    <h2 align="center">Student | Computer Science Engineer 🖥️</h2>
-</p>
-<div>
-    <h3>You can reach me by....</h3>
-<p dir="auto" align="center">
-    <a href="mailto:harshitsubramanian@gmail.com" rel="nofollow"><img src="https://camo.githubusercontent.com/4cca056d2ccc6cbce7e17f422ce8cfa6ee8386545b97ac167903a1714480fb9c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d6431343833363f7374796c653d666c61742d737175617265266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465266c696e6b3d6d61696c746f3a616268696e616e64622e6d6c40676d61696c2e636f6d" alt="Gmail" data-canonical-src="https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&amp;logoColor=white" style="max-width: 100%;"></a>
-    <a href="https://www.linkedin.com/in/harshit-s-apr2604/" rel="nofollow"><img src="https://camo.githubusercontent.com/8cf0eae8908e25a17f4c6c76b1260a60b0a2cce53dc4bc195952eeeaef2d715f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d626c75653f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f616268696e616e642d30352f" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
-    <a href="https://www.kaggle.com/harshit264" rel="nofollow"><img src="https://camo.githubusercontent.com/47700d8ebaa38f4d9674aadc16da47d2631931ff15e8609cf18b9698a2cb6e69/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4b6167676c652d3230424546463f7374796c653d666c6174266c6f676f3d6b6167676c65266c6f676f436f6c6f723d7768697465" alt="kaggle" data-canonical-src="https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&amp;logoColor=white" style="max-width: 100%;"></a> 
-    <a href="https://twitter.com/Harshit_S_264" rel="nofollow"><img src="https://vectorseek.com/wp-content/uploads/2023/07/Twitter-X-Logo-Vector-01-2.jpg" alt="Twitter" data-canonical-src="https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&amp;logoColor=white" style="height: 25px;"></a>
-    <a href="https://www.instagram.com/harshit_subramanian264/" rel="nofollow"><img src="https://camo.githubusercontent.com/3ad821fc2ec8e5389509e2262efe64bbab486ae3bfa9abf43bae910f1d3fc134/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2d2532334534343035462e7376673f6c6f676f3d496e7374616772616d266c6f676f436f6c6f723d7768697465" alt="Instagram" data-canonical-src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&amp;logoColor=white" style="max-width: 100%;"></a> 
-    <a href="https://stackoverflow.com/users/harshit-s" rel="nofollow"><img src="https://camo.githubusercontent.com/3922cfa36bd92ee7138e308a8b478c51bdc58907dcf7cec72f9c4276927122b5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d537461636b6f766572666c6f772d4645374131363f6c6f676f3d737461636b2d6f766572666c6f77266c6f676f436f6c6f723d7768697465" alt="Stack Overflow" data-canonical-src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&amp;logoColor=white" style="max-width: 100%;"></a> 
-</p>
-<div align="center" dir="auto">
-</div>
-
-<hr>
-<div align="center">
-    <img width="300" src="https://media.tenor.com/7tlM7VOBit8AAAAC/night-tutorials-indo-hanging-light.gif" alt="DataScience" height="225">
-</div>
-<hr>
-<h3>About me:</h3>
-
-I am a Student,concurrently involving in knowledge towards ⚙️ Machine Learning 🙌. Upskilling Myself in cutting-edge ✨ technologies and to the state-of-the-art🔬.
 
 
-<p align="right">
-
-- 🔭 I’m currently working as Student and partially as intern
-- 🖥 Ask me about deep learning ,🚀 Operating system and java
-- Positive attitude 🌟, Collabrative 😼, Audiophile 🎶, Casual Gamer 🎮
-
-</p>  
-<hr>
-
-<details open>
-<summary><h2>Programming Languages:</h2></summary>
-    <br>
-  <p align="center">
-        <img src="https://techaeris.com/wp-content/uploads/2016/01/Java-logo-png.png" height="30" width="75">
-        <img src="https://camo.githubusercontent.com/5859172b2d0854f4d70d35118ae1fbb8d92f967ea654f1bb1bdae4a346d03926/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632d2532333030353939432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d63266c6f676f436f6c6f723d7768697465" height="30" width="75">
-        <img src="https://camo.githubusercontent.com/314b3cbfef1fd5ba1499c31f41a8cc84ab036eb37427e0f28dbd2da4e619e95d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2532302d2532333134333534432e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d676f6c64">
-        <img src="https://camo.githubusercontent.com/d63d473e728e20a286d22bb2226a7bf45a2b9ac6c72c59c0e61e9730bfe4168c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465">
-        <img src="https://camo.githubusercontent.com/dc14b90bdb55a5c5e86c5eb8a9c931cec8648adb20c1a90f9dfe43e7aac7130e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53514c2d3737374242343f7374796c653d666f722d7468652d6261646765266c6f676f3d6f7261636c65266c6f676f436f6c6f723d7768697465">
-        <img src="https://camo.githubusercontent.com/3a0f693cfa032ea4404e8e02d485599bd0d192282b921026e89d271aaa3d7565/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373242363f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465">
-        <img src="https://camo.githubusercontent.com/aeddc848275a1ffce386dc81c04541654ca07b2c43bbb8ad251085c962672aea/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742d2532333332333333302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d253233463744463145" height="28" width="100">
-</p>
-</details>
-<hr>
-<details>
-    <summary><h2 align="right">Frameworks & Libraries:</h2></summary>
-    <p align="center">
-        <img src="https://camo.githubusercontent.com/e4f918596bfc1a8746d3bf5426a212500a5b36b1e5c63869cbe65b071dcdb48a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e756d70792d3737374242343f7374796c653d666f722d7468652d6261646765266c6f676f3d6e756d7079266c6f676f436f6c6f723d7768697465">
-        <img src="https://camo.githubusercontent.com/5e18e9b742657f6921829e31b6ee09d5d345633d8680cf1881f637d8e7bc44f1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f50616e6461732d3243324437323f7374796c653d666f722d7468652d6261646765266c6f676f3d70616e646173266c6f676f436f6c6f723d7768697465">
-        <img src="https://camo.githubusercontent.com/acb8fc6fc12616617e6bfd2cd129ac4a2a2964b3f12c7e5abff49a4a203ce87b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5363696b69742d2d4c6561726e2d2532333332393443373f267374796c653d666f722d7468652d6261646765266c6f676f3d7363696b69742d6c6561726e">
-        <img src="https://camo.githubusercontent.com/96796a43b2c70f9c57f3ad251efd2073b828ab3037e4af502c7c409f9564d2b7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4b657261732d2532334430303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d4b65726173266c6f676f436f6c6f723d7768697465">
-        <img src="https://camo.githubusercontent.com/33566a2949b4aa95765d5a7c20ec568be6688c5eb9df8af4d5315d76482bae2d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6f70656e63762d25323377686974652e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6f70656e6376266c6f676f436f6c6f723d7768697465">
-        <img src="https://camo.githubusercontent.com/4058e4719e56be216f2464f47def2f62540a0775acfde94a782f4e1aa9607db7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656e736f72466c6f772532302d2532334646364630302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d54656e736f72466c6f77266c6f676f436f6c6f723d7768697465">
-        <img src="https://camo.githubusercontent.com/8db6f323d631964e4fb9fb9718f8f5288cbce522ddc68d9f8e405630dc69e4e2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53747265616d6c69742d4646344234423f7374796c653d666f722d7468652d6261646765266c6f676f3d53747265616d6c6974266c6f676f436f6c6f723d7768697465">
-</p>
-</details>
-<hr>
-
-<details>
-  <table border=0 align="center">
-    <summary><h2>Favourite Gizmo:</h2></summary>
-    <tr border=0>
-      <td border=0>
-        <img src="https://camo.githubusercontent.com/c2800672ad04fe21e9c464eadf19e4528d580d9165b2c685fa3eb8f547620c40/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636f6e64612d333432423032392e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d616e61636f6e6461266c6f676f436f6c6f723d7768697465">
-      </td>
-      <td border=0>
-        <img src="https://camo.githubusercontent.com/ce254316621ae7180772f1e8355fd15d6258eda95d51897e76068d11e6fa7987/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f6c61622d4639414230303f7374796c653d666f722d7468652d6261646765266c6f676f3d676f6f676c65636f6c616226636f6c6f723d353235323532">
-      </td>
-      <td border=0>
-        <img src="https://camo.githubusercontent.com/88ab3c0f78016111d88ef82030375fb740d82dd0c16c1b078c441e22479009b3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5653436f64652d3030373844343f7374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c25323073747564696f253230636f6465266c6f676f436f6c6f723d7768697465">
-      </td>
-    </tr>
-    <tr>
-      <td border=0>
-        <img src="https://camo.githubusercontent.com/53b1030248fd0f64a5b70e56819acd0c8caadcd302335cbf0e4367a6c1603b65/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f77657242492d4632433831313f7374796c653d666f722d7468652d6261646765266c6f676f3d506f7765722532304249266c6f676f436f6c6f723d7768697465">
-      </td>
-      <td border=0>
-        <img src="https://camo.githubusercontent.com/b1e420d51bb3fa77c07a10674ee88114e24c454c8e6f5ff9b7984754a5ca5292/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f415a5552452532304d4c2d3030383944363f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6963726f736f66742d617a757265266c6f676f436f6c6f723d7768697465">
-      </td>
-      <td border=0>
-        <img src="https://camo.githubusercontent.com/68a8747771b0fe5289304484417af86112f05c00967c8e6278d5623baedc5246/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769746875622532302d2532333138313731372e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465">
-      </td>
-    </tr>
-    <tr>
-      <td border=0>
-        <img src="https://camo.githubusercontent.com/0c912b9ede0dbd707a80ac066851e25060a7a992e2ac25ca42f20c3c3e67135f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4b6167676c652d3230424546463f7374796c653d666f722d7468652d6261646765266c6f676f3d4b6167676c65266c6f676f436f6c6f723d7768697465">
-      </td><td border=0>
-        <img src="https://camo.githubusercontent.com/ef01ed46f259ef32442e48ce38af5b4a3d7f657e12cd0530d293a205ed57751a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769742532302d2532334630353033322e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465">
-      </td>
-      <td>
-        <img src="https://www.versionmuseum.com/images/applications/adobe-photoshop/adobe-photoshop%5E2019%5Ephotoshop-logo.jpg" width="100">
-      </td>
-    </tr>
-  </table>
-</details>
-  
-  
-</p>
-<hr>
-
-
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
-<hr>
-<details>
-    <summary><h2>My Devtools:</h2></summary>
-    <br>
-    <p align="center">
-        <img src="https://camo.githubusercontent.com/41281b9a32f13ac5b9d41ed9bae12c0de662f948f9bf59fd19df354fe49af146/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57696e646f77732d3030373844363f7374796c653d666f722d7468652d6261646765266c6f676f3d77696e646f7773266c6f676f436f6c6f723d7768697465" height=30px>
-        <img src="https://camo.githubusercontent.com/878e15b4f7576e844856dc60d855ba0587d3d2bc56211fbe69734ebccb13b068/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e75782d4643433632343f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e7578266c6f676f436f6c6f723d626c61636b" height=30px>
-        <img src="https://camo.githubusercontent.com/5834ad3e1625bb3a1014dd90c6a2889752c30e0183fd346bdf0d3179e97cf79f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f70215f4f532d3438423943373f7374796c653d666f722d7468652d6261646765266c6f676f3d506f70215f4f53266c6f676f436f6c6f723d7768697465" height=30px>
-        <img src="https://camo.githubusercontent.com/4c34adbd23deeef73fdbf36ac2135c0c9abee1e83fc96e8435082b2666c566a8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f565320436f64652d3535353535353f7374796c653d666c61742d737175617265266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d303037414343" height=30px>
-        <img src="https://camo.githubusercontent.com/d6de31463470dd4540e7ece7849e6d38d423825f113ea4ae639f4dcfd0392d82/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5562756e74752d4539353432303f7374796c653d666f722d7468652d6261646765266c6f676f3d7562756e7475266c6f676f436f6c6f723d7768697465" height=30px>
-        <img src="https://camo.githubusercontent.com/a6dba91277b13656f15f2c2d021f7c4a0bccbf3a28e32d9ad98f2e932451f1f7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5465726d696e616c2d3535353535352e7376673f267374796c653d666c61742d737175617265266c6f676f3d706f7765727368656c6c266c6f676f436f6c6f723d7768697465" height=31px>
-        <img src="https://camo.githubusercontent.com/58f563d18e99ba98927ff555acc58861684101d28ea58b111671d75bb47a4c9e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53706f746966792d3535353535352e7376673f267374796c653d666c61742d737175617265266c6f676f3d73706f74696679266c6f676f436f6c6f723d314544373630" height=30px>
-    </p>
-</details>
-<hr>
-<details>
-<summary><h2>Github Stats:</h2></summary>
-
+###
 
 <div align="center">
- <a href="https://github.com/ryo-ma/github-profile-trophy" align="center">
-  <img height=200 align="center" src="https://github-profile-trophy.vercel.app/?username=Harshit26042004&row=1&column=7" />
-</a>
+  <a href="https://www.linkedin.com/in/harshit-s-apr2604" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/Harshit_S_264" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  </a>
+  <a href="https://www.hackerrank.com/profile/21CS058_KPRIET" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
+  </a>
+  <a href="https://stackoverflow.com/users/harshit-s" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="stackoverflow logo"  />
+  </a>
+  <a href="https://www.instagram.com/harshit_subramanian264/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
 </div>
 
- <a href="https://github.com/Harshit26042004/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Harshit26042004" />
-</a>
+###
+<div align="center">
+  <img height="250" src="https://camo.githubusercontent.com/4a166ccffe6496e780dae64f1b4ad5ac206ee7bdf3ed72cd60b16e973bc20eb6/68747470733a2f2f6d656469612e74656e6f722e636f6d2f37746c4d37564f4269743841414141432f6e696768742d7475746f7269616c732d696e646f2d68616e67696e672d6c696768742e676966"  />
+</div>
 
-<a href="https://github.com/Harshit26042004/github-readme-stats">
-  <img height=250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Harshit26042004&langs_count=8&card_width=400&show_icons=true" />
-</a>
+<div align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Harshit26042004.Harshit26042004&"  />
+</div>
+
+###
+
+<h1 align="center">Bon jour! 👋 everyone</h1>
+
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">I'm Harshit from Coimbatore.<br>Programmer,Interested in AI&ML and upskilling ML , DL algorithms and techniques.Eager to explore Computer vision and NLP.<br><br>- 📚 I'm currently learning BE degree<br>- 🖥 Ask me about deep learning ,🚀  java<br>- ⚡ In my free time I used to listen to music, play games</p>
+
+###
+
+<h3 align="left">🛠 Language and frameworks</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
+</div>
+
+###
+
+<h3 align="left">Tools and Gismo's :</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+</div>
+
+###
+
+<h3 align="left">Github Trophies :</h3>
+
+###
 
 <div align="center">
- <a href="https://git.io/streak-stats" align="center">
-  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Harshit26042004&theme=radical" />
-</a>
+  <img src="https://github-profile-trophy.vercel.app?username=Harshit26042004&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
- ![visitor badge](https://visitor-badge.lithub.cc/badge?page_id=Harshit26042004.visitor-badge)
+###
 
- </details>
+<h3 align="left">🔥   My Stats :</h3>
 
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Harshit26042004&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Harshit26042004&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Harshit26042004&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshit26042004&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
