@@ -36,14 +36,11 @@
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
-
-###
-
 <p align="left">I'm Harshit from Coimbatore.<br>Programmer,Interested in AI&ML and upskilling ML , DL algorithms and techniques.Eager to explore Computer vision and NLP.<br><br>- 📚 I'm currently learning BE degree<br>- 🖥 Ask me about deep learning ,🚀  java<br>- ⚡ In my free time I used to listen to music, play games</p>
 
 ###
 
-<h3 align="left">🛠 Language and frameworks</h3>
+<h3 align="left">🛠 Language and frameworks : </h3>
 
 ###
 
