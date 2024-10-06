@@ -21,9 +21,6 @@
 </div>
 
 ###
-<div align="center">
-  <img height="250" src="https://camo.githubusercontent.com/4a166ccffe6496e780dae64f1b4ad5ac206ee7bdf3ed72cd60b16e973bc20eb6/68747470733a2f2f6d656469612e74656e6f722e636f6d2f37746c4d37564f4269743841414141432f6e696768742d7475746f7269616c732d696e646f2d68616e67696e672d6c696768742e676966"  />
-</div>
 
 <div align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Harshit26042004.Harshit26042004&"  />
