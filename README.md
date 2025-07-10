@@ -15,7 +15,7 @@
   <a href="https://stackoverflow.com/users/harshit-s" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="stackoverflow logo"  />
   </a>
-  <a href="https://www.instagram.com/harshit_subramanian264/" target="_blank">
+  <a href="https://www.instagram.com/_.harshit_26._/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
 </div>
