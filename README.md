@@ -7,16 +7,13 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://www.kaggle.com/harshit264" target="_blank">
-    <img src="https://camo.githubusercontent.com/cdeb8a1714996095673244e8d062ad198129f3b2869054e0dec4f4666047452e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4b6167676c652d3230424546463f7374796c653d666f722d7468652d6261646765266c6f676f3d4b6167676c65266c6f676f436f6c6f723d7768697465" height="25" alt="instagram logo"  />
+    <img src="https://img.shields.io/badge/Kaggle%202x%20Expert-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" height="25" alt="Kaggle logo"  />
   </a>
   <a href="https://www.hackerrank.com/profile/21CS058_KPRIET" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
   </a>
   <a href="https://stackoverflow.com/users/harshit-s" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="stackoverflow logo"  />
-  </a>
-  <a href="https://www.instagram.com/_.harshit_26._/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
 </div>
 
