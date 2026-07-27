@@ -1,81 +1,209 @@
-
-
-###
-
 <div align="center">
+
+<!-- Futuristic Typing Header -->
+<a href="https://github.com/Harshit26042004">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F2FE&center=true&vCenter=true&width=750&height=70&lines=Harshit+Subramanian;+AI+%2F+ML+Architect+%26+Software+Engineer;+Specializing+in+LLM+Architectures+%26+RAG;+Deep+Learning+%7C+NLP+%7C+Computer+Vision" alt="Typing SVG" />
+</a>
+
+<p align="center">
+  <b>Architecting intelligent systems, custom neural architectures, & high-performance tooling from Coimbatore 🛰️</b>
+</p>
+
+<!-- Socials Bar -->
+<p align="center">
   <a href="https://www.linkedin.com/in/harshit-subramanian" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.kaggle.com/harshit264" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle%202x%20Expert-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" height="25" alt="Kaggle logo"  />
+    <img src="https://img.shields.io/badge/Kaggle_2x_Expert-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
   </a>
   <a href="https://www.hackerrank.com/profile/21CS058_KPRIET" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
   </a>
   <a href="https://stackoverflow.com/users/harshit-s" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="stackoverflow logo"  />
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="StackOverflow" />
   </a>
-</div>
+</p>
 
-###
+<!-- Profile Visitor Badge -->
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Harshit26042004.Harshit26042004&style=flat-square&color=00F2FE" alt="Visitors" />
+</p>
 
-<div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Harshit26042004.Harshit26042004&"  />
-</div>
-
-###
-
-<h1 align="center">Bon jour! 👋 everyone</h1>
 <br>
 
-###
+<!-- Cyberpunk Quote Banner -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
 
-<h3 align="left">👩‍💻  About Me</h3>
-<p align="left">I'm Harshit from Coimbatore.<br>Programmer,Interested in AI&ML and upskilling Data Structures and Algorithms.Eager to explore Computer vision and NLP.<br><br>- 📚 I'm a Computer Science Engineer with Bachelors degree<br>- 🖥 Ask me about deep learning ,🚀  java<br>- ⚡ In my free time I used to listen to music, play games</p>
-
-###
-
-<h3 align="left">🛠 Languages and Tools : </h3>
-
-###
-
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a><a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" /> </p>
-
-<h3 align="left">Github Trophies :</h3>
-
-###
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=Harshit26042004&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
-###
+---
 
-<h3 align="left">🔥   My Stats :</h3>
+### ⚡ System Interface // Executive Summary
 
-###
+```zsh
+┌──(harshit㉿subspace)-[~]
+└─$ cat system_profile.json
+{
+  "name": "Harshit Subramanian",
+  "base_location": "Coimbatore, India",
+  "designation": "Software Development Engineer // AI & ML Specialist",
+  "education": "B.E. in Computer Science & Engineering",
+  "core_competencies": [
+    "Large Language Model (LLM) Architecture & Fine-Tuning",
+    "Retrieval-Augmented Generation (RAG) Pipelines",
+    "Data Structures, Algorithms & Systems Optimization",
+    "Custom Parser Development & Data Engineering"
+  ],
+  "leisure_modules": ["Algorithmic Optimization", "Audio Immersion", "Gaming", "Fitness & Recomposition"]
+}
+```
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Harshit26042004&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+## <samp>⚗️ publications & research</samp>
 
-###
+<table>
+<tr><td>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harshit26042004&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Harshit26042004&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+**📄  NOVA & NOVA-Verse: Designing a 14M Parameter Language Model with Custom Hybrid Positional Encodings**
+<sup>*Open Research & Model Architecture Documentation* · Hugging Face Technical Release · Sep 2025</sup>
+<sup>**Harshit Subramanian**</sup>
 
-###
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-NOVA--Verse-FFD21E?style=flat-square&logoColor=black)](https://huggingface.co/harshit36/NOVA-Verse)
+![Status](https://img.shields.io/badge/Status-Published-A8FF60?style=flat-square)
+![Field](https://img.shields.io/badge/LLM%20Architecture-grey?style=flat-square)
+![Focus](https://img.shields.io/badge/Positional%20Encoding-grey?style=flat-square)
+
+</td></tr>
+
+<tr><td>
+
+**📄  Architectural Innovations in Small Language Models (SLMs): Parameter-Efficient Training and Custom Tokenization on Project Gutenberg Corpus**
+<sup>*Technical Report & Open Source Implementation* · Research Lab Release · Oct 2025</sup>
+<sup>**Harshit Subramanian**</sup>
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Harshit26042004)
+![Status](https://img.shields.io/badge/Status-Open%20Source-A8FF60?style=flat-square)
+![Field](https://img.shields.io/badge/NLP%20%2F%20Deep%20Learning-grey?style=flat-square)
+![Focus](https://img.shields.io/badge/PEFT%20%26%20Fine--Tuning-grey?style=flat-square)
+
+</td></tr>
+</table>
+
+---
+
+## <samp>📐 featured engineering</samp>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🧠  NOVA-Verse — Custom 14M LLM & Fine-Tuning
+**`14M Parameters · Hybrid Positional Encoding · Hugging Face`**
+
+Designed and trained a custom Small Language Model (SLM) from scratch. Engineered a proprietary hybrid positional encoding mechanism for optimized context retention and fine-tuned the architecture on Project Gutenberg data.
+
+`PyTorch` `Transformers` `Custom Encodings` `PEFT`
+
+</td>
+<td width="50%" valign="top">
+
+#### 📚  DocMentor — Enterprise RAG Tutor System
+**`Streamlit SaaS · Vector Search · Custom Document Mentoring`**
+
+End-to-end Retrieval-Augmented Generation (RAG) educational platform. Integrates advanced document parsing, embeddings stored in a local ChromaDB vector store, and LangChain orchestrators for real-time contextual tutoring.
+
+`LangChain` `ChromaDB` `Streamlit` `RAG Pipeline`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### ⚙️  SQL Table-Column Extractor & Engine
+**`High-Precision Parser · AST Processing · Zero-Hallucination`**
+
+Engineered a robust SQL parsing utility using `sqlglot` capable of decomposing complex queries. Accurately isolates base tables and physical columns while systematically excluding aliases, CTEs, and temporary subqueries.
+
+`Python` `sqlglot` `AST Parsing` `Data Engineering`
+
+</td>
+<td width="50%" valign="top">
+
+#### 📊  Personal Finance & Expense Analytics Engine
+**`Time-Series Filtering · Dynamic Aggregations · Interactive UI`**
+
+Full-stack data visualization dashboard for personal financial tracking. Deploys custom backend logic to process category expenditure JSONs into interactive stacked bar charts, donut visualizations, and time-series trends.
+
+`Python` `Pandas` `Seaborn` `Data Visualization`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🌴  TripWise — Travel Organization & Itinerary Planner
+**`Custom Brand Identity · Interactive UX · Smart Routing`**
+
+An intuitive travel planning and organization application. Features dynamic itinerary builders, cost estimation models, and custom aesthetic UI design (featuring the signature T-shaped palm tree branding).
+
+`Full-Stack` `UI/UX Design` `Python` `Product Architecture`
+
+</td>
+<td width="50%" valign="top">
+
+#### ⚡  Algorithmic Optimization Suite
+**`Competitive Programming · Highly Optimized Data Structures`**
+
+A comprehensive, production-grade repository of advanced Data Structures and Algorithms (DSA) implementations in Java and Python. Focused on runtime optimization, graph traversals, and dynamic programming paradigms.
+
+`Java` `Python` `System Optimization` `Advanced DSA`
+
+</td>
+</tr>
+</table>
+
+---
+
+## <samp>⛏️ tech stack & research focus</samp>
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+**◆ core engineering**
+python       ████████████ ▓
+java         ███████████  ▓
+pytorch      ███████████  ▓
+sql/parsers  ██████████   ▓
+linux/bash   █████████    ▓
+git/docker
 
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshit26042004&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
+</td>
+<td valign="top" width="33%">
 
-###
+**◆ ai & data science**
+llm architectures  ████████████
+rag & vector dbs   ███████████
+nlp & tokenization ███████████
+computer vision    ██████████
+data visualization ██████████
+langchain / chroma █████████
+model evaluation
+
+
+</td>
+<td valign="top" width="34%">
+
+**◆ active research**
+hybrid positional encodings
+small language models (SLM)
+parameter-efficient fine-tuning
+retrieval-augmented generation
+custom AST query parsing
+multi-modal vision systems
+
+
+</td>
+</tr>
+</table>
