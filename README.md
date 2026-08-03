@@ -39,7 +39,7 @@
 
 ---
 
-### ⚡ System Interface // Executive Summary
+### ⚡ Executive Summary
 
 ```zsh
 ┌──(harshit㉿subspace)-[~]
