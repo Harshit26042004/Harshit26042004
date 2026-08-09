@@ -2,161 +2,179 @@
 
 <!-- Futuristic Typing Header -->
 <a href="https://github.com/Harshit26042004">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F2FE&center=true&vCenter=true&width=750&height=70&lines=Harshit+Subramanian;+AI+%2F+ML+Architect+%26+Software+Engineer;+Specializing+in+LLM+Architectures+%26+RAG;+Deep+Learning+%7C+NLP+%7C+Computer+Vision" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F2FE&center=true&vCenter=true&width=750&height=70&lines=Harshit+Subramanian;+AI+%2F+ML+Architect+%26+Software+Engineer;+Specializing+in+LLM+Architectures+%26+RAG;+System+Design+%7C+AI+Integration+%7C+Backend+Dev" alt="Typing SVG" />
 </a>
 
-<p align="center">
-  <b>Architecting intelligent systems, custom neural architectures, & high-performance tooling from Coimbatore 🛰️</b>
-</p>
 
-<!-- Socials Bar -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/harshit-subramanian" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.kaggle.com/harshit264" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle_2x_Expert-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/21CS058_KPRIET" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
-  </a>
-  <a href="https://stackoverflow.com/users/harshit-s" target="_blank">
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="StackOverflow" />
-  </a>
-</p>
-
-<!-- Profile Visitor Badge -->
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Harshit26042004.Harshit26042004&style=flat-square&color=00F2FE" alt="Visitors" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshit-subramanian)
+[![HuggingFace](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logoColor=black)](https://huggingface.co/harshit36)
+[![Kaggle](https://img.shields.io/badge/Kaggle_2x_Expert-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/harshit264)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/21CS058_KPRIET)
+[![StackOverflow](https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/harshit-s)
 
 <br>
 
-<!-- Cyberpunk Quote Banner -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
+![Location](https://img.shields.io/badge/📍_Base-Coimbatore-success?style=for-the-badge&labelColor=006400)
+![Role](https://img.shields.io/badge/👨‍💻_Role-SDE_III-4169E1?style=for-the-badge&labelColor=00008B)
+![Focus](https://img.shields.io/badge/🧠_Focus-LLM_Architectures-9370DB?style=for-the-badge&labelColor=4B0082)
+![Research](https://img.shields.io/badge/📚_Research-Active-DC143C?style=for-the-badge&labelColor=8B0000)
 
 </div>
 
 ---
 
-### ⚡ Executive Summary
+<div align="center">
 
-```zsh
-┌──(harshit㉿subspace)-[~]
-└─$ cat system_profile.json
-{
-  "name": "Harshit Subramanian",
-  "base_location": "Coimbatore, India",
-  "designation": "Software Development Engineer // AI & ML Specialist",
-  "education": "B.E. in Computer Science & Engineering",
-  "core_competencies": [
-    "Large Language Model (LLM) Architecture & Fine-Tuning",
-    "Retrieval-Augmented Generation (RAG) Pipelines",
-    "Data Structures, Algorithms & Systems Optimization",
-    "Custom Parser Development & Data Engineering"
+### 🧭 Quick Navigation
+
+[📊 Stats](#-github-stats) · [👋 About](#-about-me) · [🛠️ Tech Stack](#️-tech-stack) · [🚀 Projects](#-featured-projects) · [🔬 Research](#-deep-dive-research--publications) · [🗺️ Roadmap](#️-roadmap)
+
+</div>
+
+---
+
+<div align="center">
+<img src="[https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=70&section=header&text=GitHub%20Stats&fontSize=28&fontColor=fff&fontAlignY=65&animation=fadeIn](https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=70&section=header&text=GitHub%20Stats&fontSize=28&fontColor=fff&fontAlignY=65&animation=fadeIn)" width="100%" />
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-stats-extended.vercel.app/api?username=Harshit26042004&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=Harshit26042004&theme=tokyonight&hide_border=true" width="48%" />
+
+<br>
+
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Harshit26042004&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshit26042004&theme=tokyo-night&hide_border=true" width="48%" />
+
+</div>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=11,20,24&height=70&section=header&text=About%20Me&fontSize=28&fontColor=fff&fontAlignY=65&animation=fadeIn" width="100%" />
+</div>
+
+
+## 👋 About Me
+
+```typescript
+const harshit: Developer = {
+  name:     "Harshit Subramanian",
+  role:     "Software Development Engineer (SDE-III) // AI & ML Specialist",
+  location: "📍 Coimbatore, India",
+  
+  focus: [
+    "🧠 Architecting Custom Small Language Models (SLMs) & Hybrid Encodings",
+    "📚 Building zero-hallucination Retrieval-Augmented Generation (RAG) Systems",
+    "⚙️ High-precision AST parsing for data engineering workflows",
+    "⚡ High-performance algorithmic optimization & system design",
   ],
-  "leisure_modules": ["Algorithmic Optimization", "Audio Immersion", "Gaming", "Fitness & Recomposition"]
-}
+
+  stack: {
+    languages: ["Python", "Java", "SQL", "Bash"],
+    backend:   ["Streamlit", "Pandas", "Seaborn"],
+    ai_ml:     ["PyTorch", "Hugging Face", "LangChain", "ChromaDB", "PEFT"],
+    devOps:    ["Docker", "Git", "Linux"],
+  },
+
+  leisure:   ["🏋️ Fitness & Body Recomposition", "🎮 Gaming", "🎵 Audio Immersion", "⚡ Competitive Programming"],
+  principle: "Optimized · Deterministic · Architected for Scale",
+};
 ```
 
-## <samp>⚗️ publications & research</samp>
+---
 
-<table>
-<tr><td>
+<div align="center">
+<img src="[https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=20,24,25&height=70&section=header&text=Tech%20Stack&fontSize=28&fontColor=fff&fontAlignY=65&animation=fadeIn](https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=20,24,25&height=70&section=header&text=Tech%20Stack&fontSize=28&fontColor=fff&fontAlignY=65&animation=fadeIn)" width="100%" />
+</div>
 
-**📄  NOVA & NOVA-Verse: Designing a 14M Parameter Language Model with Custom Hybrid Positional Encodings**
-<sup>*Open Research & Model Architecture Documentation* · Hugging Face Technical Release · Sep 2025</sup>
-<sup>**Harshit Subramanian**</sup>
+## 🛠️ Tech Stack
 
-[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-NOVA--Verse-FFD21E?style=flat-square&logoColor=black)](https://huggingface.co/harshit36/NOVA-Verse)
-![Status](https://img.shields.io/badge/Status-Published-A8FF60?style=flat-square)
-![Field](https://img.shields.io/badge/LLM%20Architecture-grey?style=flat-square)
-![Focus](https://img.shields.io/badge/Positional%20Encoding-grey?style=flat-square)
+<div align="center">
+<a href="[https://skillicons.dev](https://skillicons.dev)">
+  <img src="[https://skillicons.dev/icons?i=python,java,pytorch,postgres,linux,docker,git,bash&theme=dark&perline=8](https://skillicons.dev/icons?i=python,java,pytorch,postgres,linux,docker,git,bash&theme=dark&perline=8)" />
+</a>
+<br>
 
-</td></tr>
+**Languages & Frameworks**
 
-<tr><td>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-**📄  Architectural Innovations in Small Language Models (SLMs): Parameter-Efficient Training and Custom Tokenization on Project Gutenberg Corpus**
-<sup>*Technical Report & Open Source Implementation* · Research Lab Release · Oct 2025</sup>
-<sup>**Harshit Subramanian**</sup>
+**AI / ML & Tooling**
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Harshit26042004)
-![Status](https://img.shields.io/badge/Status-Open%20Source-A8FF60?style=flat-square)
-![Field](https://img.shields.io/badge/NLP%20%2F%20Deep%20Learning-grey?style=flat-square)
-![Focus](https://img.shields.io/badge/PEFT%20%26%20Fine--Tuning-grey?style=flat-square)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-</td></tr>
-</table>
+</div>
 
 ---
 
-## <samp>📐 featured engineering</samp>
+<div align="center">
+<img src="[https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=24,25,6&height=70&section=header&text=Featured%20Projects&fontSize=28&fontColor=fff&fontAlignY=65&animation=fadeIn](https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=24,25,6&height=70&section=header&text=Featured%20Projects&fontSize=28&fontColor=fff&fontAlignY=65&animation=fadeIn)" width="100%" />
+</div>
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech | Source |
+|---|---|---|---|
+| 🧠 **NOVA-Verse SLM** | Custom 14M parameter Small Language Model utilizing a proprietary hybrid positional encoding mechanism. Fine-tuned on Project Gutenberg. | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![HF](https://img.shields.io/badge/-Transformers-FFD21E?style=flat-square) | [Model](https://huggingface.co/harshit36/NOVA-Verse) |
+| 📚 **DocMentor RAG** | Enterprise-grade Retrieval-Augmented Generation tutor system. Features custom document mentoring with real-time vector embeddings. | ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square) ![ChromaDB](https://img.shields.io/badge/-ChromaDB-FF4B4B?style=flat-square) | [Repo](https://github.com/Harshit26042004) |
+| ⚙️ **SQL Table Extractor** | Robust parsing utility leveraging `sqlglot`. Capable of high-precision AST processing to isolate base tables/columns while ignoring aliases and CTEs. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![sqlglot](https://img.shields.io/badge/-sqlglot-4169E1?style=flat-square) | [Repo](https://github.com/Harshit26042004) |
+| 📊 **Expense Analytics** | Full-stack financial visualization engine processing JSON entries into dynamic time-series filters, stacked bars, and donut charts. | ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat-square) | [Repo](https://github.com/Harshit26042004) |
+| 🌴 **TripWise** | Travel organization app featuring smart routing, budget estimation, and a custom T-shaped palm tree brand aesthetic. | ![FullStack](https://img.shields.io/badge/-Full_Stack-000000?style=flat-square) ![UI/UX](https://img.shields.io/badge/-UI/UX-FF4B4B?style=flat-square) | [Repo](https://github.com/Harshit26042004) |
+| ⚡ **Optimization Suite** | Production-grade repository of advanced DSA implementations focused on runtime optimization, graph traversals, and dynamic programming. | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![DSA](https://img.shields.io/badge/-DSA-000000?style=flat-square) | [Repo](https://github.com/Harshit26042004) |
+
+---
+
+<div align="center">
+<img src="[https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=25,6,11&height=70&section=header&text=Deep-Dive%20Research%20%26%20Publications&fontSize=26&fontColor=fff&fontAlignY=65&animation=fadeIn](https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=25,6,11&height=70&section=header&text=Deep-Dive%20Research%20%26%20Publications&fontSize=26&fontColor=fff&fontAlignY=65&animation=fadeIn)" width="100%" />
+</div>
+
+## 🔬 Deep-Dive Research & Publications
+
+> My core research focuses on pushing the boundaries of parameter efficiency, custom tokenization, and contextual retention in Language Models.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-#### 🧠  NOVA-Verse — Custom 14M LLM & Fine-Tuning
-**`14M Parameters · Hybrid Positional Encoding · Hugging Face`**
+<b>📄 NOVA & NOVA-Verse: Designing a 14M Parameter Language Model with Custom Hybrid Positional Encodings</b>
 
-Designed and trained a custom Small Language Model (SLM) from scratch. Engineered a proprietary hybrid positional encoding mechanism for optimized context retention and fine-tuned the architecture on Project Gutenberg data.
+<p><i>Open Research & Model Architecture Documentation · Sep 2025</i></p>
 
-`PyTorch` `Transformers` `Custom Encodings` `PEFT`
+Engineered a proprietary hybrid positional encoding mechanism for optimized context retention, proving efficiency at a micro-scale.
 
-</td>
-<td width="50%" valign="top">
+<br>
 
-#### 📚  DocMentor — Enterprise RAG Tutor System
-**`Streamlit SaaS · Vector Search · Custom Document Mentoring`**
-
-End-to-end Retrieval-Augmented Generation (RAG) educational platform. Integrates advanced document parsing, embeddings stored in a local ChromaDB vector store, and LangChain orchestrators for real-time contextual tutoring.
-
-`LangChain` `ChromaDB` `Streamlit` `RAG Pipeline`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### ⚙️  SQL Table-Column Extractor & Engine
-**`High-Precision Parser · AST Processing · Zero-Hallucination`**
-
-Engineered a robust SQL parsing utility using `sqlglot` capable of decomposing complex queries. Accurately isolates base tables and physical columns while systematically excluding aliases, CTEs, and temporary subqueries.
-
-`Python` `sqlglot` `AST Parsing` `Data Engineering`
+<a href="[https://huggingface.co/harshit36/NOVA-Verse](https://huggingface.co/harshit36/NOVA-Verse)">
+  <img src="[https://img.shields.io/badge/%F0%9F%A4%97_Hugging_Face-NOVA--Verse-FFD21E?style=flat-square&logoColor=black](https://img.shields.io/badge/%F0%9F%A4%97_Hugging_Face-NOVA--Verse-FFD21E?style=flat-square&logoColor=black)" />
+</a>
+<img src="[https://img.shields.io/badge/Status-Published-A8FF60?style=flat-square](https://img.shields.io/badge/Status-Published-A8FF60?style=flat-square)" />
 
 </td>
 <td width="50%" valign="top">
 
-#### 📊  Personal Finance & Expense Analytics Engine
-**`Time-Series Filtering · Dynamic Aggregations · Interactive UI`**
+<b>📄 Architectural Innovations in Small Language Models (SLMs): Parameter-Efficient Training</b>
 
-Full-stack data visualization dashboard for personal financial tracking. Deploys custom backend logic to process category expenditure JSONs into interactive stacked bar charts, donut visualizations, and time-series trends.
+<p><i>Technical Report & Open Source Implementation · Oct 2025</i></p>
 
-`Python` `Pandas` `Seaborn` `Data Visualization`
+Deep-dive lab exploring custom tokenization on the Project Gutenberg corpus and the application of Parameter-Efficient Fine-Tuning (PEFT).
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<br>
 
-#### 🌴  TripWise — Travel Organization & Itinerary Planner
-**`Custom Brand Identity · Interactive UX · Smart Routing`**
-
-An intuitive travel planning and organization application. Features dynamic itinerary builders, cost estimation models, and custom aesthetic UI design (featuring the signature T-shaped palm tree branding).
-
-`Full-Stack` `UI/UX Design` `Python` `Product Architecture`
-
-</td>
-<td width="50%" valign="top">
-
-#### ⚡  Algorithmic Optimization Suite
-**`Competitive Programming · Highly Optimized Data Structures`**
-
-A comprehensive, production-grade repository of advanced Data Structures and Algorithms (DSA) implementations in Java and Python. Focused on runtime optimization, graph traversals, and dynamic programming paradigms.
-
-`Java` `Python` `System Optimization` `Advanced DSA`
+<a href="[https://github.com/Harshit26042004](https://github.com/Harshit26042004)">
+  <img src="[https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white)" />
+</a>
+<img src="[https://img.shields.io/badge/Status-Open_Source-A8FF60?style=flat-square](https://img.shields.io/badge/Status-Open_Source-A8FF60?style=flat-square)" />
 
 </td>
 </tr>
@@ -164,46 +182,57 @@ A comprehensive, production-grade repository of advanced Data Structures and Alg
 
 ---
 
-## <samp>⛏️ tech stack & research focus</samp>
+<div align="center">
+<img src="[https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,20,25&height=70&section=header&text=Roadmap&fontSize=28&fontColor=fff&fontAlignY=65&animation=fadeIn](https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,20,25&height=70&section=header&text=Roadmap&fontSize=28&fontColor=fff&fontAlignY=65&animation=fadeIn)" width="100%" />
+</div>
 
-<table>
-<tr>
-<td valign="top" width="33%">
+## 🗺️ Roadmap
 
-**◆ core engineering**
-python       ████████████ ▓
-java         ███████████  ▓
-pytorch      ███████████  ▓
-sql/parsers  ██████████   ▓
-linux/bash   █████████    ▓
-git/docker
+```mermaid
+graph TB
+  A[🎯 Focus Areas] --> B[🧠 SLM Architectures]
+  A --> C[⚙️ Agentic RAG Systems]
+  A --> D[📊 AST Data Engineering]
 
+  B --> B1[Scaling Hybrid Positional Encodings]
+  B --> B2[Parameter Efficient Fine-Tuning]
 
-</td>
-<td valign="top" width="33%">
+  C --> C1[LangChain / Multi-Agent Orchestration]
+  C --> C2[ChromaDB Multi-Modal Indexing]
 
-**◆ ai & data science**
-llm architectures  ████████████
-rag & vector dbs   ███████████
-nlp & tokenization ███████████
-computer vision    ██████████
-data visualization ██████████
-langchain / chroma █████████
-model evaluation
+  D --> D1[sqlglot Engine Optimization]
+  D --> D2[Zero-Hallucination Query Parsing]
 
+  style A fill:#00F2FE,stroke:#000,color:#000
+  style B fill:#161b22,stroke:#20BEFF,color:#fff
+  style C fill:#161b22,stroke:#A8FF60,color:#fff
+  style D fill:#161b22,stroke:#FFD21E,color:#fff
+```
 
-</td>
-<td valign="top" width="34%">
+---
 
-**◆ active research**
-hybrid positional encodings
-small language models (SLM)
-parameter-efficient fine-tuning
-retrieval-augmented generation
-custom AST query parsing
-multi-modal vision systems
+<div align="center">
 
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
 
-</td>
-</tr>
-</table>
+<br>
+
+### 🌟 *"Deterministic architecture for non-deterministic AI."*
+
+<br>
+
+### 🤝 Let's Build Something Together
+
+[![LinkedIn](https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshit-subramanian)
+[![HuggingFace](https://img.shields.io/badge/Follow-FFD21E?style=for-the-badge&logoColor=black)](https://huggingface.co/harshit36)
+[![GitHub](https://img.shields.io/badge/Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harshit26042004)
+
+<br>
+
+<img width="100%" src="[https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,25&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=35&fontColor=fff&fontAlignY=75](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,25&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=35&fontColor=fff&fontAlignY=75)" />
+
+**⭐️ From [Harshit26042004](https://github.com/Harshit26042004) — Made with 💜 in Markdown**
+
+<img src="[https://komarev.com/ghpvc/?username=Harshit26042004&label=Profile%20Views&color=00F2FE&style=flat-square](https://komarev.com/ghpvc/?username=Harshit26042004&label=Profile%20Views&color=00F2FE&style=flat-square)" />
+
+</div>
